@@ -75,7 +75,6 @@ Small businesses lose customers every day to missed calls, slow replies, and web
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dtxdex1020&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=3DDC97&icon_color=3DDC97&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtxdex1020&layout=compact&theme=github_dark&hide_border=true&title_color=3DDC97&bg_color=0d1117" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=dtxdex1020&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97" alt="GitHub streak" />
 </div>
