@@ -2,10 +2,10 @@
 
 <a href="https://dtxdex1020.github.io"><img src="./assets/header.svg" width="100%" alt="Dex. Founder of MintHost and MintBreeze." /></a>
 
-<a href="https://dtxdex1020.github.io"><img src="./assets/editor.svg" width="100%" alt="Code editor typing score-lead.ts, a lead-scoring function, then slowmode.ts, a Zeltra slash command" /></a>
+<a href="https://dtxdex1020.github.io"><img src="./assets/editor.svg" width="100%" alt="Code editor typing score-lead.ts, a lead-scoring function, then slowmode.ts, a Discord slash command" /></a>
 
 <a href="https://dtxdex1020.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=4AA3DF&center=true&vCenter=true&width=640&height=44&lines=%24+whoami;founder+of+MintHost+%2B+MintBreeze;software+that+answers+the+phone;discord+bots+written+from+scratch;typescript%2C+end+to+end" alt="Typing: whoami, founder of MintHost and MintBreeze" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=4AA3DF&center=true&vCenter=true&width=640&height=44&lines=%24+whoami;founder+of+MintHost+%2B+MintBreeze;software+that+answers+the+phone;discord+%26+ER%3ALC+bots;typescript%2C+end+to+end" alt="Typing: whoami, founder of MintHost and MintBreeze" />
 </a>
 
 <p>
@@ -16,7 +16,7 @@
 
 </div>
 
-Founder of MintHost and MintBreeze. I build AI-powered tools for small businesses, and I write Discord bots from scratch. Missed calls, slow replies and websites that don't convert cost owners real customers, so I write the software that fixes it and run it end to end: product, code, database, infra, and the support inbox. The bots are their own thing, built line by line in TypeScript with discord.js.
+Founder of MintHost and MintBreeze. I build AI-powered tools for small businesses, and I run Discord &amp; ER:LC bots. Missed calls, slow replies and websites that don't convert cost owners real customers, so I write the software that fixes it and run it end to end: product, code, database, infra, and the support inbox. The bots are their own thing: [Zeltra](https://github.com/dtxdex1020/Zeltra) is a multipurpose Discord + ER:LC bot I run and customize, built on the open-source Ducky V1.
 
 ```ts
 // about.ts
@@ -39,7 +39,7 @@ const dex = {
     "Prisma",
     "PostgreSQL",
   ],
-  bots: "discord.js, from scratch",
+  bots: "Zeltra on open-source Ducky V1; discord.js templates",
   rules: [
     "boring tech where it counts",
     "ship small, then listen",
@@ -63,13 +63,13 @@ Answers calls, replies to email, follows up with people who went quiet, books ap
 
 <a href="https://mintbreeze.org"><img src="https://img.shields.io/badge/mintbreeze.org-open_↗-4aa3df?style=flat-square&labelColor=1f4e79" alt="mintbreeze.org" /></a>
 
-**`03` · Zeltra** · Discord bot, written from scratch<br>
-Built line by line in TypeScript with discord.js. 28 slash commands: moderation with case history, auto-mod, server settings, tags, and a self-serve data portal where members export or delete their own data.<br>
-<sub>`TypeScript` `discord.js` · own slash-command framework · case log · privacy portal</sub>
+**`03` · [Zeltra](https://github.com/dtxdex1020/Zeltra)** · Discord + ER:LC bot, built on the open-source Ducky V1<br>
+A multipurpose Discord + ER:LC bot I run and customize, built on the open-source [Ducky V1](https://github.com/duckyerlc/Ducky-opensource) by duckyerlc. 73 slash commands: moderation with case history, tickets, Roblox verification, staff shifts and LOAs, ER:LC server tools, giveaways and an economy.<br>
+<sub>`Lua` `Luvit` `Discordia` · fork of Ducky V1 · AGPL-3.0</sub>
 
-<img src="https://img.shields.io/badge/source-private-7dbde9?style=flat-square&labelColor=1f4e79" alt="Private source" />
+<a href="https://github.com/dtxdex1020/Zeltra"><img src="https://img.shields.io/badge/github-dtxdex1020%2FZeltra-4aa3df?style=flat-square&logo=github&logoColor=white&labelColor=1f4e79" alt="dtxdex1020/Zeltra on GitHub" /></a>
 
-<sub>Product source is private. The portfolio site is open: <a href="https://github.com/dtxdex1020/dtxdex1020.github.io">dtxdex1020.github.io</a>, hand-written HTML, CSS and vanilla JS, no framework, no build step.</sub>
+<sub>MintHost and MintBreeze source is private, and Zeltra is open source. The portfolio site is open: <a href="https://github.com/dtxdex1020/dtxdex1020.github.io">dtxdex1020.github.io</a>, hand-written HTML, CSS and vanilla JS, no framework, no build step.</sub>
 
 ### ❯ open source
 
@@ -118,7 +118,7 @@ Status, response time, TLS expiry and keyword checks for a list of URLs, with CI
 
 ### ❯ currently shipping
 
-<img src="./assets/build.svg" width="100%" alt="Terminal: npm run build compiles minthost, mintbreeze and zeltra; prisma migrate deploy; git push" />
+<img src="./assets/build.svg" width="100%" alt="Terminal: npm run build builds minthost and mintbreeze and readies zeltra; prisma migrate deploy; git push" />
 
 <sub>An illustrative build log for the three projects. Both animations are hand-written SVG and CSS, no scripts.</sub>
 
