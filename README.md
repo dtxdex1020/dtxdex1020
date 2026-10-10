@@ -3,7 +3,7 @@
 <a href="https://dtxdex1020.github.io"><img src="./assets/header.svg" width="100%" alt="Dex. Founder of MintHost and MintBreeze." /></a>
 
 <a href="https://dtxdex1020.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=1F4E79&center=true&vCenter=true&width=640&height=44&lines=%24+whoami;founder+of+MintHost+%2B+MintBreeze;software+that+answers+the+phone;discord+bots+that+keep+the+peace;typescript%2C+end+to+end" alt="Typing: whoami, founder of MintHost and MintBreeze" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=1F4E79&center=true&vCenter=true&width=640&height=44&lines=%24+whoami;founder+of+MintHost+%2B+MintBreeze;software+that+answers+the+phone;discord+bots+written+from+scratch;typescript%2C+end+to+end" alt="Typing: whoami, founder of MintHost and MintBreeze" />
 </a>
 
 <p>
@@ -14,7 +14,7 @@
 
 </div>
 
-I build AI-powered tools for small businesses, plus Discord bots. Missed calls, slow replies and websites that don't convert cost owners real customers, so I write the software that fixes it and run it end to end: product, code, database, infra, and the support inbox.
+Founder of MintHost and MintBreeze. I build AI-powered tools for small businesses, and I write Discord bots from scratch. Missed calls, slow replies and websites that don't convert cost owners real customers, so I write the software that fixes it and run it end to end: product, code, database, infra, and the support inbox. The bots are their own thing, built line by line in TypeScript with discord.js.
 
 ```ts
 // about.ts
@@ -23,7 +23,7 @@ const dex = {
   ships: ["MintHost", "MintBreeze", "Zeltra"],
   languages: ["TypeScript", "JavaScript", "SQL"],
   stack: ["Next.js", "React", "Node.js", "Prisma", "PostgreSQL"],
-  bots: "discord.js",
+  bots: "discord.js, written from scratch",
   rules: [
     "boring tech for the parts that must not break",
     "ship the small version, then listen",
@@ -39,7 +39,7 @@ const dex = {
 |:-:|:--|:--|:--|
 | `01` | **MintHost** | Lead generation and booking. A chat widget that scores conversations and turns website visitors into booked customers, plus site building and hosting. | [minthost.org ↗](https://minthost.org) |
 | `02` | **MintBreeze** | Receptionist and assistant. Answers calls, replies to email, follows up, books appointments, and sends the owner a morning report. | [mintbreeze.org ↗](https://mintbreeze.org) |
-| `03` | **Zeltra** | Discord bot with 28 slash commands: moderation with case history, auto-mod, settings, tags, and a self-serve data portal. | private source |
+| `03` | **Zeltra** | Discord bot I wrote from scratch in TypeScript with discord.js. 28 slash commands: moderation with case history, auto-mod, settings, tags, and a self-serve data portal. | private source |
 
 <sub>Product source is private. The portfolio site is open: <a href="https://github.com/dtxdex1020/dtxdex1020.github.io">dtxdex1020.github.io</a>, hand-written HTML, CSS and vanilla JS.</sub>
 
