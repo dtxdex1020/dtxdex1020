@@ -71,6 +71,34 @@ Built line by line in TypeScript with discord.js. 28 slash commands: moderation 
 
 <sub>Product source is private. The portfolio site is open: <a href="https://github.com/dtxdex1020/dtxdex1020.github.io">dtxdex1020.github.io</a>, hand-written HTML, CSS and vanilla JS, no framework, no build step.</sub>
 
+### ❯ open source
+
+Small tools I've put out in the open. MIT licensed, tested, take what helps.
+
+**[discord-bot-starter](https://github.com/dtxdex1020/discord-bot-starter)** · Discord bot template<br>
+Clean discord.js v14 slash-command starter: auto-loaded commands and events, zod-checked config, cooldowns, error replies.<br>
+<sub>`TypeScript` `discord.js` `zod` · template repo</sub>
+
+**[shrt](https://github.com/dtxdex1020/shrt)** · URL shortener<br>
+Tiny self-hosted shortener with custom slugs, click counts, rate limiting and a minimal UI, in one container.<br>
+<sub>`TypeScript` `Hono` `SQLite` `Docker`</sub>
+
+**[lead-score](https://github.com/dtxdex1020/lead-score)** · lead scoring library<br>
+Tags inbound messages hot, warm or cold from budget, timeline, urgency and contact signals.<br>
+<sub>`TypeScript` · zero deps · ESM + CJS</sub>
+
+**[slotfinder](https://github.com/dtxdex1020/slotfinder)** · booking slot calculator · [live demo ↗](https://dtxdex1020.github.io/slotfinder/)<br>
+Open slots from business hours, time zones, buffers, bookings and blackout dates. DST-safe.<br>
+<sub>`TypeScript` `Intl` · zero deps</sub>
+
+**[hookbin](https://github.com/dtxdex1020/hookbin)** · webhook inspector CLI<br>
+Catch webhooks locally, pretty-print them, save them to JSON and replay them at your handler.<br>
+<sub>`TypeScript` `Node http` `commander`</sub>
+
+**[upcheck](https://github.com/dtxdex1020/upcheck)** · uptime check CLI + GitHub Action<br>
+Status, response time, TLS expiry and keyword checks for a list of URLs, with CI-friendly exit codes.<br>
+<sub>`TypeScript` · CLI · GitHub Action</sub>
+
 ### ❯ stack
 
 <p>
