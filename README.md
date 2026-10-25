@@ -1,134 +1,84 @@
 <div align="center">
 
-<a href="https://dtxdex1020.github.io"><img src="./assets/header.svg" width="100%" alt="Dex. Founder of MintHost and MintBreeze." /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:fafafa&height=180&section=header&text=Dex&fontSize=64&fontColor=ffffff&fontAlignY=35" width="100%" alt="Dex" />
 
-<a href="https://dtxdex1020.github.io"><img src="./assets/editor.svg" width="100%" alt="Code editor typing score-lead.ts, a lead-scoring function, then slowmode.ts, a Discord slash command" /></a>
-
-<a href="https://dtxdex1020.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=4AA3DF&center=true&vCenter=true&width=640&height=44&lines=%24+whoami;founder+of+MintHost+%2B+MintBreeze;software+that+answers+the+phone;discord+%26+ER%3ALC+bots;typescript%2C+end+to+end" alt="Typing: whoami, founder of MintHost and MintBreeze" />
+<a href="https://github.com/dtxdex1020">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FAFAFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dex;Founder+of+Cybexa;Website+security+%26+monitoring;TypeScript+%C2%B7+Next.js+%C2%B7+Discord+bots" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://dtxdex1020.github.io"><img src="https://img.shields.io/badge/portfolio-dtxdex1020.github.io-4aa3df?style=flat-square&labelColor=1f4e79" alt="Portfolio" /></a>
-  <a href="https://minthost.org"><img src="https://img.shields.io/badge/minthost.org-live-4aa3df?style=flat-square&labelColor=1f4e79" alt="minthost.org" /></a>
-  <a href="https://mintbreeze.org"><img src="https://img.shields.io/badge/mintbreeze.org-live-4aa3df?style=flat-square&labelColor=1f4e79" alt="mintbreeze.org" /></a>
+  <a href="https://cybexa.xyz"><img src="https://img.shields.io/badge/Cybexa-cybexa.xyz-fafafa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Cybexa" /></a>
+  <a href="https://dtxdex1020.github.io"><img src="https://img.shields.io/badge/Portfolio-dtxdex1020.github.io-fafafa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Portfolio" /></a>
+  <a href="https://discord.gg/tDhzT79ttB"><img src="https://img.shields.io/badge/Discord-Cybexa-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" alt="Discord" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=dtxdex1020&color=fafafa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-Founder of MintHost and MintBreeze. I build AI-powered tools for small businesses, and I run Discord &amp; ER:LC bots. Missed calls, slow replies and websites that don't convert cost owners real customers, so I write the software that fixes it and run it end to end: product, code, database, infra, and the support inbox. The bots are their own thing: [Zeltra](https://github.com/dtxdex1020/Zeltra) is a multipurpose Discord + ER:LC bot I run and customize, built on the open-source Ducky V1.
+---
 
-```ts
-// about.ts
-const dex = {
-  role: "founder",
-  ships: [
-    "MintHost",
-    "MintBreeze",
-    "Zeltra",
-  ],
-  languages: [
-    "TypeScript",
-    "JavaScript",
-    "SQL",
-  ],
-  stack: [
-    "Next.js",
-    "React",
-    "Node.js",
-    "Prisma",
-    "PostgreSQL",
-  ],
-  bots: "Zeltra on open-source Ducky V1; discord.js templates",
-  rules: [
-    "boring tech where it counts",
-    "ship small, then listen",
-    "privacy is a feature",
-  ],
-  inbox: "support.minthost@gmail.com",
-} as const;
-```
+## About me
 
-### ❯ what I run
+**Founder of [Cybexa](https://cybexa.xyz).** I build website security and monitoring for communities and businesses, plus Discord bots and developer tools — TypeScript, Next.js, and Node end to end.
 
-**`01` · [MintHost](https://minthost.org)** · lead generation and booking<br>
-A chat widget that scores every conversation and nudges hot leads toward a calendar slot. MintHost also builds and hosts the site it lives on.<br>
-<sub>`Next.js` `TypeScript` `Prisma` `PostgreSQL` · lead scoring · booking · site hosting</sub>
+- **Cybexa** — website protection, monitoring, and status tooling at [cybexa.xyz](https://cybexa.xyz)
+- **Open tools** — Discord bot starter, URL shortener, webhook tester, uptime CLI, and more (public repos below)
+- **Discord bots** — moderation, tickets, status embeds, and community ops
 
-<a href="https://minthost.org"><img src="https://img.shields.io/badge/minthost.org-open_↗-4aa3df?style=flat-square&labelColor=1f4e79" alt="minthost.org" /></a>
+## Featured
 
-**`02` · [MintBreeze](https://mintbreeze.org)** · receptionist and assistant<br>
-Answers calls, replies to email, follows up with people who went quiet, books appointments, and sends the owner a morning report.<br>
-<sub>`TypeScript` · call handling · email replies · scheduling · daily digest</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://cybexa.xyz">Cybexa</a></h3>
+      <p>Website security and monitoring. Keep sites watched, status clear, and your team ready when something goes down.</p>
+      <p><a href="https://cybexa.xyz"><b>cybexa.xyz →</b></a></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Open source tools</h3>
+      <p>Real, tested utilities for bots, webhooks, booking slots, lead scoring, and uptime checks — built to hire from and for teams to fork.</p>
+      <p>
+        <a href="https://github.com/dtxdex1020/discord-bot-starter">discord-bot-starter</a> ·
+        <a href="https://github.com/dtxdex1020/shrt">shrt</a> ·
+        <a href="https://github.com/dtxdex1020/hookbin">hookbin</a> ·
+        <a href="https://github.com/dtxdex1020/upcheck">upcheck</a> ·
+        <a href="https://github.com/dtxdex1020/slotfinder">slotfinder</a> ·
+        <a href="https://github.com/dtxdex1020/lead-score">lead-score</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://mintbreeze.org"><img src="https://img.shields.io/badge/mintbreeze.org-open_↗-4aa3df?style=flat-square&labelColor=1f4e79" alt="mintbreeze.org" /></a>
-
-**`03` · [Zeltra](https://github.com/dtxdex1020/Zeltra)** · Discord + ER:LC bot, built on the open-source Ducky V1<br>
-A multipurpose Discord + ER:LC bot I run and customize, built on the open-source [Ducky V1](https://github.com/duckyerlc/Ducky-opensource) by duckyerlc. 73 slash commands: moderation with case history, tickets, Roblox verification, staff shifts and LOAs, ER:LC server tools, giveaways and an economy.<br>
-<sub>`Lua` `Luvit` `Discordia` · fork of Ducky V1 · AGPL-3.0</sub>
-
-<a href="https://github.com/dtxdex1020/Zeltra"><img src="https://img.shields.io/badge/github-dtxdex1020%2FZeltra-4aa3df?style=flat-square&logo=github&logoColor=white&labelColor=1f4e79" alt="dtxdex1020/Zeltra on GitHub" /></a>
-
-<sub>MintHost and MintBreeze source is private, and Zeltra is open source. The portfolio site is open: <a href="https://github.com/dtxdex1020/dtxdex1020.github.io">dtxdex1020.github.io</a>, hand-written HTML, CSS and vanilla JS, no framework, no build step.</sub>
-
-### ❯ open source
-
-Small tools I've put out in the open. MIT licensed, tested, take what helps.
-
-**[discord-bot-starter](https://github.com/dtxdex1020/discord-bot-starter)** · Discord bot template<br>
-Clean discord.js v14 slash-command starter: auto-loaded commands and events, zod-checked config, cooldowns, error replies.<br>
-<sub>`TypeScript` `discord.js` `zod` · template repo</sub>
-
-**[shrt](https://github.com/dtxdex1020/shrt)** · URL shortener<br>
-Tiny self-hosted shortener with custom slugs, click counts, rate limiting and a minimal UI, in one container.<br>
-<sub>`TypeScript` `Hono` `SQLite` `Docker`</sub>
-
-**[lead-score](https://github.com/dtxdex1020/lead-score)** · lead scoring library<br>
-Tags inbound messages hot, warm or cold from budget, timeline, urgency and contact signals.<br>
-<sub>`TypeScript` · zero deps · ESM + CJS</sub>
-
-**[slotfinder](https://github.com/dtxdex1020/slotfinder)** · booking slot calculator · [live demo ↗](https://dtxdex1020.github.io/slotfinder/)<br>
-Open slots from business hours, time zones, buffers, bookings and blackout dates. DST-safe.<br>
-<sub>`TypeScript` `Intl` · zero deps</sub>
-
-**[hookbin](https://github.com/dtxdex1020/hookbin)** · webhook inspector CLI<br>
-Catch webhooks locally, pretty-print them, save them to JSON and replay them at your handler.<br>
-<sub>`TypeScript` `Node http` `commander`</sub>
-
-**[upcheck](https://github.com/dtxdex1020/upcheck)** · uptime check CLI + GitHub Action<br>
-Status, response time, TLS expiry and keyword checks for a list of URLs, with CI-friendly exit codes.<br>
-<sub>`TypeScript` · CLI · GitHub Action</sub>
-
-### ❯ stack
+## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-1f4e79?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-1f4e79?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-2f86c4?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-2f86c4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2f86c4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-4aa3df?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Prisma-4aa3df?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4aa3df?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/discord.js-7dbde9?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
-  <img src="https://img.shields.io/badge/Railway-7dbde9?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Docker-7dbde9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-7dbde9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
-### ❯ currently shipping
+## Stats
 
-<img src="./assets/build.svg" width="100%" alt="Terminal: npm run build builds minthost and mintbreeze and readies zeltra; prisma migrate deploy; git push" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dtxdex1020&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a3a3a3&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtxdex1020&layout=compact&theme=dark&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&hide_border=true" alt="Top languages" />
+</p>
 
-<sub>An illustrative build log for the three projects. Both animations are hand-written SVG and CSS, no scripts.</sub>
+## Contact
 
-### ❯ contact
+<p>
+  <a href="https://cybexa.xyz"><img src="https://img.shields.io/badge/Web-cybexa.xyz-fafafa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="cybexa.xyz" /></a>
+  <a href="https://discord.gg/tDhzT79ttB"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" alt="Discord" /></a>
+  <a href="https://github.com/dtxdex1020"><img src="https://img.shields.io/badge/GitHub-dtxdex1020-fafafa?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" /></a>
+</p>
 
-```sh
-$ mail support.minthost@gmail.com
-$ open https://minthost.org
-$ open https://mintbreeze.org
-```
+---
 
-<a href="mailto:support.minthost@gmail.com"><img src="https://img.shields.io/badge/email-support.minthost%40gmail.com-4aa3df?style=flat-square&logo=gmail&logoColor=white&labelColor=1f4e79" alt="Email" /></a>
-<a href="https://github.com/dtxdex1020"><img src="https://img.shields.io/badge/github-dtxdex1020-4aa3df?style=flat-square&logo=github&logoColor=white&labelColor=1f4e79" alt="GitHub" /></a>
+<div align="center">
+  <sub>Building Cybexa · open to work · TypeScript · Next.js · Discord</sub>
+</div>
